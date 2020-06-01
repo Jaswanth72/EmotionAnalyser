@@ -10,7 +10,7 @@ Anaconda Navigator<br>
 
 # Tools Required:
 Python 3.4<br>
-**The following libraries are required for the main part of the code:**
+**The following libraries are required for the main part of the code:**<br>
 nltk<br>
 re<br>
 pandas<br>
